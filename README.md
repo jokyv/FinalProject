@@ -18,7 +18,7 @@ Features:
 - Interest Rate EUR
 - Interest Rate USD
 - GDP USD
-- GBP EUR
+- GDP EUR
 - CPI USD
 - CPI EUR
 - Unemployment rate USD
