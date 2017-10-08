@@ -3,7 +3,7 @@ Final Project for GE
 
 Regression Problem
 
-Predict Volatility for EURUSD (most tradable currency pair) for the following timeframes:
+Predict Volatility for EURUSD (most tradable currency pair) for the following timeframes (time in UTC):
 - 1minute
 - 1hour
 - 1day
