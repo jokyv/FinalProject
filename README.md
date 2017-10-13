@@ -10,23 +10,24 @@ Features:
 - USDJPY past volatility
 
 Economic Figures
-- Interest Rate EUR
-- ECB conference
-- Interest Rate USD
-- FED conference
-- GDP USD
-- GDP EUR
-- CPI USD
-- CPI EUR
-- NFP
-- Unemployment rate EUR
-- (Core) retail Sales
-- US consumer confidence
+- EUIR: Interest Rate EUR
+- EUCONF: ECB conference
+- USIR: Interest Rate USD
+- FEDCONF: FED conference
+- USGDP: GDP USD
+- EUGDP: GDP EUR
+- USCPI: CPI USD
+- EUCPI: CPI EUR
+- NFP: NFP
+- EUUR: Unemployment rate EUR
 
-- German manufacturing PMI
-- German ZEW Economic Sentiment 
-- German IFO Business Climate Index
-- German Unemployment Rate / Employment Change
-- German Manufacturing PMI
-- US ISM Manufactiring PMI
-- US ADP Employment Change
+- USR: retail Sales
+- USCC: US consumer confidence
+- USADP: US ADP Employment Change
+- USISM: US ISM Manufactiring PMI
+
+- GPMI: German manufacturing PMI
+- GZEW: German ZEW Economic Sentiment 
+- GIFO: German IFO Business Climate Index
+- GUC: German Unemployment Rate / Employment Change
+
