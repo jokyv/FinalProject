@@ -1,29 +1,24 @@
 # FinalProject
 Final Project for GE
 
-Regression Problem
-
-Predict Volatility for EURUSD (most tradable currency pair) for the following timeframes (time in UTC):
-- 1minute
-- 1hour
-- 1day
+Forecast Volatility for EURUSD (most tradable currency pair) for the following timeframes (time in UTC):
+- 1hour timeframe
+- 1day timeframe
 
 Features:
-- EURUSD t-1 volatility 
-- EURUSD t-2 volatility
-- EURUSD t-3 volatility
-- USDJPY t-1 volatility
-- USDJPY t-2 volatility
-- USDJPY t-3 volatility
+- EURUSD past volatility
+- USDJPY past volatility
+
+Economic Figures
 - Interest Rate EUR
 - ECB conference
 - Interest Rate USD
 - FED conference
 - GDP USD
 - GDP EUR
-- Core CPI USD
-- Core CPI EUR
-- Unemployment rate USD
+- CPI USD
+- CPI EUR
+- NFP
 - Unemployment rate EUR
 - (Core) retail Sales
 - US consumer confidence
