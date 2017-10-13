@@ -1,5 +1,5 @@
 # FinalProject
-Final Project for GE
+Final Project for GA
 
 Forecast Volatility for EURUSD (most tradable currency pair) for the following timeframes (time in UTC):
 - 1hour timeframe
