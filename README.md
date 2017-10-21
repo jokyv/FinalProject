@@ -14,7 +14,7 @@ Time Serires - Regression problem. The input shape will be 1 time step.
 
 2. Univariate LTSM and Tuning Parameters.ipynb
 - Univariate LTSM model demonstration
-- Tune parameters (Epich, batch sizes, neurons, more layers)
+- Tune parameters (Epoch, batch sizes, neurons, add 1 more layer)
 - Compare RMSE
 
 3. Multivariate LTSM.ipynb
