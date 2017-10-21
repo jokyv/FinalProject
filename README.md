@@ -6,6 +6,7 @@ Forecast Volatility for EURUSD (most tradable currency pair) for the following t
 - 1hour timeframe (to be continued)
 
 Time Serires - Regression problem
+The input shape will be 1 time step
 
 1. DATA + ARIMA.ipynb
 - Present Date and demonstrate ARIMA model
