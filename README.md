@@ -7,19 +7,19 @@ Forecast Volatility for EURUSD (most tradable currency pair) for the following t
 
 Time Serires - Regression problem
 
-1.DATA + ARIMA.ipynb
-Present Date and demonstrate ARIMA model
-ARIMA Disadvatages (needs: complete data, linear relationship, univariate data)
-Results
+1. DATA + ARIMA.ipynb
+- Present Date and demonstrate ARIMA model
+- ARIMA Disadvatages (needs: complete data, linear relationship, univariate data)
+- Results
 
 2. Univariate LTSM and Tuning Parameters.ipynb
-Univariate LTSM model demonstration
-Tune parameters (Epich, batch sizes, neurons, more layers)
-Results
+- Univariate LTSM model demonstration
+- Tune parameters (Epich, batch sizes, neurons, more layers)
+- Compare RMSE
 
 3. Multivariate LTSM.ipynb
-Use the optimised univariate LTSMS model and add more features
-Compare results with the optimised Univariate LTSM model
+- Use the optimised univariate LTSMS model and add more features
+- Compare results with the optimised Univariate LTSM model
 
 Features:
 - EURUSD past volatility
