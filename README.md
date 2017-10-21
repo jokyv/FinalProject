@@ -12,14 +12,14 @@ Time Serires - Regression problem. The input shape will be 1 time step.
 - ARIMA Disadvatages (needs: complete data, linear relationship, univariate data)
 - Results
 
-2. Univariate LTSM and Tuning Parameters.ipynb
+2. Univariate LSTM and Tuning Parameters.ipynb
 - Univariate LTSM model demonstration
 - Tune parameters (Epoch, batch sizes, neurons, add 1 more layer)
 - Compare RMSE
 
-3. Multivariate LTSM.ipynb
-- Use the optimised univariate LTSMS model and add more features
-- Compare results with the optimised Univariate LTSM model
+3. Multivariate LSTM.ipynb
+- Use the optimised univariate LSTM model and add more features
+- Compare results with the optimised Univariate LSTM model
 
 Features:
 - EURUSD past volatility
